@@ -111,7 +111,7 @@ export default function Home() {
   }
 
   return (
-    <div className="flex flex-col min-h-screen bg-[#15171b] text-white">
+    <div className="flex flex-col min-h-screen pt-20">
       <Navbar />
       <main className="flex-grow flex flex-col items-center justify-center p-4">
         <div className="w-full max-w-2xl">
