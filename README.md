@@ -2,6 +2,8 @@
 
 A modern, minimal URL shortener built with Next.js 15, Supabase, and Tailwind CSS.
 
+<a href="https://www.producthunt.com/products/chotuurl?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-chotuurl" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=973153&theme=dark&t=1748897005873" alt="ChotuURL - A&#0032;modern&#0044;&#0032;minimal&#0044;&#0032;open&#0045;source&#0044;&#0032;ad&#0045;free&#0032;URL&#0032;shortene | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Features
 
 - 🔗 Shorten long URLs instantly
