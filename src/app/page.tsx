@@ -113,6 +113,11 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen pt-20">
       <Navbar />
+      <div className="flex justify-center mt-4 mb-8">
+        <a href="https://www.producthunt.com/products/chotuurl?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-chotuurl" target="_blank">
+        <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=973153&theme=dark&t=1749019255781" alt="ChotuURL - A&#0032;modern&#0044;&#0032;minimal&#0044;&#0032;open&#0045;source&#0044;&#0032;ad&#0045;free&#0032;URL&#0032;shortene | Product Hunt" style={{width: "250px", height: "54px"}} width="250" height="54" />
+        </a>
+      </div>
       <main className="flex-grow flex flex-col items-center justify-center p-4">
         <div className="w-full max-w-2xl">
           <div className="text-center mb-12">
